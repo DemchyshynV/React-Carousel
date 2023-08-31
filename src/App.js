@@ -1,7 +1,9 @@
+import {Carousel} from "./components/Carousel/Carousel";
+
 const App = () => {
     return (
         <div>
-            App
+            <Carousel/>
         </div>
     );
 };
